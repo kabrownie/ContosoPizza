@@ -10084,11 +10084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kabrownie/projects/mslearn-create-razor-pages-aspnet-core/ContosoPizza/ContosoPizza.csproj",
+      "projectUniqueName": "/home/kabrownie/projects/ContosoPizza/ContosoPizza.csproj",
       "projectName": "ContosoPizza",
-      "projectPath": "/home/kabrownie/projects/mslearn-create-razor-pages-aspnet-core/ContosoPizza/ContosoPizza.csproj",
+      "projectPath": "/home/kabrownie/projects/ContosoPizza/ContosoPizza.csproj",
       "packagesPath": "/home/kabrownie/.nuget/packages/",
-      "outputPath": "/home/kabrownie/projects/mslearn-create-razor-pages-aspnet-core/ContosoPizza/obj/",
+      "outputPath": "/home/kabrownie/projects/ContosoPizza/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kabrownie/.nuget/NuGet/NuGet.Config"
